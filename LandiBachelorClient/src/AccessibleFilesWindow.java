@@ -8,6 +8,7 @@ public class AccessibleFilesWindow {
 
 
     private JPanel panel;
+    private JPanel test;
 
     public JPanel getPanel() {
         return panel;
