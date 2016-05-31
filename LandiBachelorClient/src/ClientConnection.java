@@ -20,6 +20,7 @@ import java.util.concurrent.Semaphore;
 public class ClientConnection {
 
     DeviceRepresentation rep;
+    DeviceRepresentation rep;
     StreamConnection connection;
     BufferedWriter writer;
     BufferedReader reader;
